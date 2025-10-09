@@ -11,7 +11,7 @@
 <img width="773" height="780" alt="image" src="https://github.com/user-attachments/assets/7af66dea-d2e6-4a34-81c4-141910d08cfa" />
 
 #### **Посилання на роботу:**
-https://www.figma.com/proto/KQO7wKUDwyoJCPJei9GHDC/Untitled?node-id=0-1&t=k3sAJX8SFYN53z1k-1
+https://www.figma.com/design/KQO7wKUDwyoJCPJei9GHDC/Untitled?node-id=0-1&t=AwcMwz4iO9f9yFzn-1
 
 #### **2. Повторюємо завдання рівня Medium**
 <img width="760" height="703" alt="image" src="https://github.com/user-attachments/assets/378c88dc-f01b-4268-9fea-3d780c6689a1" />
