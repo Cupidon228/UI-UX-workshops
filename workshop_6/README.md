@@ -35,7 +35,7 @@
 <img width="678" height="635" alt="image" src="https://github.com/user-attachments/assets/68b33c56-847d-4ba2-8c85-d48950e7fb2b" />
 
 #### **Посилання на роботу:**
-https://www.figma.com/design/SHEE0Gqc7UQhxKszq7t4BD/Untitled?node-id=0-1&t=DoQtS2XMX2xHzPY9-1
+https://www.figma.com/design/SHEE0Gqc7UQhxKszq7t4BD/Untitled?node-id=0-1&t=OwXumHAebHlLeY8x-1
 
 ## **ВИСНОВОК:**
 Отже на цій практичній роботі я ознайомився з булевими групами та використав цю навчику для виконання практичної роботи.
