@@ -12,7 +12,7 @@
 <img width="1387" height="807" alt="image" src="https://github.com/user-attachments/assets/52118af0-9991-4047-b426-f2514860c304" />
 
 #### **Посилання на роботу:**
-https://www.figma.com/design/SElc6q3bqvw7TJQKwdpl0G/Untitled?node-id=0-1&t=ur18xRaCbrsZiXWw-1
+https://www.figma.com/design/SElc6q3bqvw7TJQKwdpl0G/Untitled?node-id=0-1&t=yxROiLixlqdhi6S7-1
 
 ## **ВИСНОВОК:**
 Отже на цих практичних завданнях я ознайомився з теоретичними відомостями про типографіку в дизайні та відтворив свої теоретичні навички на практиці створивши частинку вебсторінки.
