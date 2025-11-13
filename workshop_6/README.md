@@ -28,14 +28,5 @@
 #### **Кінцевий результат:**
 <img width="543" height="530" alt="image" src="https://github.com/user-attachments/assets/b16db300-d231-4509-97a2-1c21e4b8eedb" />
 
-#### **5. Іконка**
-<img width="129" height="127" alt="image" src="https://github.com/user-attachments/assets/0d937ca5-92a0-495c-9573-f6bc5e3055be" />
-
-#### **Кінцевий результат:**
-<img width="678" height="635" alt="image" src="https://github.com/user-attachments/assets/68b33c56-847d-4ba2-8c85-d48950e7fb2b" />
-
-#### **Посилання на роботу:**
-https://www.figma.com/design/SHEE0Gqc7UQhxKszq7t4BD/Untitled?node-id=0-1&t=OwXumHAebHlLeY8x-1
-
 ## **ВИСНОВОК:**
 Отже на цій практичній роботі я ознайомився з булевими групами та використав цю навчику для виконання практичної роботи.
