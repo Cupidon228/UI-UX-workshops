@@ -59,6 +59,7 @@ https://github.com/user-attachments/assets/37ca11f7-6c4a-42be-87bc-c151d53db9c8
 https://www.figma.com/design/cyfes98Xdo6li6trBUU0NF/Untitled?node-id=0-1&t=MybOYwhRnKD6xlfx-1
 
 #### **Додатковий сайт на цю тематику(адаптований під планшет, телефон та пк)**
+- Інтерфейс клікабельний та приймає анкети: 
 https://imperialdev.framer.website/home
 
 ## **ВИСНОВОК:**
